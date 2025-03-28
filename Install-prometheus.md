@@ -85,4 +85,15 @@ Open your browser and navigate to:
 http://<your-server-ip>:9090
 ```
 
+## Prometheus UI
+
+After setting up Prometheus, you can access the web interface at:
+
+[http://your-server-ip:9090](http://your-server-ip:9090)
+
+Here is a screenshot of the Prometheus interface:
+
+![Prometheus UI](https://imgur.com/rseVWmV.png)
+
+
 Prometheus is now up and running! 🚀

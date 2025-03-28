@@ -91,6 +91,17 @@ Grafana allows you to:
 ✅ Set up alerts 🚨  
 ✅ Connect multiple data sources 🌍  
 
+## Grafana Dashboard
+
+After integrating Prometheus with Grafana, you can visualize your metrics at:
+
+[http://your-server-ip:3000](http://your-server-ip:3000)
+
+Here is a screenshot of the Grafana dashboard:
+
+![Grafana UI](https://imgur.com/QQ5mdmG.png)
+
+
 Explore its full potential and customize it to fit your monitoring needs!
 
 ---

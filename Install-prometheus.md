@@ -93,7 +93,7 @@ After setting up Prometheus, you can access the web interface at:
 
 Here is a screenshot of the Prometheus interface:
 
-![Prometheus UI](https://imgur.com/rseVWmV.png)
-
+![Prometheus UI](https://imgur.com/dg9aFRW.png) 
+---
 
 Prometheus is now up and running! 🚀

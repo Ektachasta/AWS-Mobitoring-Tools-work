@@ -83,4 +83,16 @@ Once Node Exporter is running, you can access its metrics at:
 http://<your-server-ip>:9100/metrics
 ```
 
+## Node Exporter UI
+
+After setting up Node Exporter, you can access its web interface at:
+
+[http://your-server-ip:9100](http://your-server-ip:9100)
+
+Here is a screenshot of the Node Exporter interface:
+
+![Node Exporter UI](https://imgur.com/n6pzbRA.png)
+
+---
+
 Node Exporter is now successfully set up and ready to provide system metrics to Prometheus! 🚀
